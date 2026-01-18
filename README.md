@@ -23,7 +23,6 @@ Currently studying and improving my skills to become a Full Stack Developer.
 
 ## 📚 Currently learning
 
-- GraphQL
 - CI/CD
 - AWS
 
